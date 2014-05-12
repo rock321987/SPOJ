@@ -1,8 +1,8 @@
 #include <cstdio>
+#include <cstring>
 
 using namespace std;
 
-#include <cstring>
 #define get getchar_unlocked
 
 inline int input()
