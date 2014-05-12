@@ -1,3 +1,7 @@
+/*
+	LITTLE BIT OF MODIFICATION IN SLIDING WINDOW ALGORITHM
+*/
+
 #include <cstdio>
 #include <cmath>
 #include <cstdlib>
