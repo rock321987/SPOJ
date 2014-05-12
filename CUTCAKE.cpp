@@ -1,3 +1,7 @@
+/*
+	QUADRATIC EQUATION MATHEMATICS
+*/
+
 #include <cstdio>
 #include <cmath>
 
