@@ -1,3 +1,5 @@
+#Ad-hoc
+
 i = 1;
  
 t = input();
