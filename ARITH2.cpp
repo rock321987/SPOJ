@@ -1,3 +1,6 @@
+/*
+	Ad-hoc, SIMPLE MATHEMATICS
+*/
 #include <cstdio>
 
 using namespace std;
