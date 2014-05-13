@@ -1,5 +1,5 @@
 /*
-  the problem is very easy except for its poor description
+  the problem is very easy but its description is very poor
 */
 
 #include <cstdio>
