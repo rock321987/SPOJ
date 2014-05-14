@@ -1,5 +1,5 @@
 /*
-  Ad-hoc..this is not an efficient solution..there are many other efficient method
+  Ad-hoc..this is not an efficient solution..there are many other efficient methods
 */
 
 #include <cstdio>
