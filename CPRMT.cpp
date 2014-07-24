@@ -1,3 +1,7 @@
+/*
+	Frequency counting
+*/
+
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>
