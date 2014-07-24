@@ -1,6 +1,7 @@
 /*
   Mathematics..
-  for more info read http://math.stackexchange.com/questions/817038/sum-of-digits-of-number-from-1-to-n
+  for more info read
+  http://math.stackexchange.com/questions/817038/sum-of-digits-of-number-from-1-to-n
 */
 
 #include <bits/stdc++.h>
